@@ -10,7 +10,7 @@ Soy un desarrollador de software con experiencia en **desarrollo web**, **integr
 - **Plataformas de Comercio Electrónico:** Shopify, WooCommerce, TradeMe, eBay
 - **Gestión de ERP/CRM:** Odoo
 - **Desarrollo y Diseño Web:** WordPress, BigCommerce
-- **Bases de Datos:** MySQL, PostgreSQL, MongoDB, Oracle SQL Server
+- **Bases de Datos:** MySQL, PostgreSQL, MongoDB
 - **Business Intelligence (BI):** Especialista en análisis y visualización de datos para la toma de decisiones estratégicas.
 - **Integración y Gobierno de Datos:** Experto en la integración de sistemas de datos y el establecimiento de políticas para la gestión de datos.
 - **DBA y Administración de Infraestructura IT:** Gestión y mantenimiento de bases de datos y sistemas IT para asegurar un rendimiento óptimo.
