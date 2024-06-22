@@ -1,62 +1,32 @@
-### Sobre mí
+### About Me
 
-Soy un desarrollador de software con experiencia en **desarrollo web**, **integración de API** y **gestión de ERP/CRM**. Me especializo en la creación de soluciones tecnológicas innovadoras y eficientes que optimizan los procesos de negocio y mejoran la experiencia del usuario. Mi enfoque se centra en la integración de plataformas de comercio electrónico como Shopify, WooCommerce, TradeMe y eBay, utilizando herramientas como Odoo para una gestión integral.
+I am a software developer with experience in **web development**, **API integration**, and **ERP/CRM management**. I specialize in creating innovative and efficient technological solutions that optimize business processes and enhance user experience. My focus is on integrating e-commerce platforms such as Shopify, WooCommerce, TradeMe, and eBay, using tools like Odoo for comprehensive management.
 
-### Habilidades
+### Skills
 
-- **Lenguajes de Programación:** Python, JavaScript, HTML, CSS
-- **Frameworks y Librerías:** Django, React, Node.js
-- **Integración de API:** REST, SOAP, GraphQL
-- **Plataformas de Comercio Electrónico:** Shopify, WooCommerce, TradeMe, eBay
-- **Gestión de ERP/CRM:** Odoo
-- **Desarrollo y Diseño Web:** WordPress, BigCommerce
-- **Bases de Datos:** MySQL, PostgreSQL, MongoDB
-- **Business Intelligence (BI):** Especialista en análisis y visualización de datos para la toma de decisiones estratégicas.
-- **Integración y Gobierno de Datos:** Experto en la integración de sistemas de datos y el establecimiento de políticas para la gestión de datos.
-- **DBA y Administración de Infraestructura IT:** Gestión y mantenimiento de bases de datos y sistemas IT para asegurar un rendimiento óptimo.
-- **Resolución de Problemas:** Habilidades sólidas para identificar y solucionar problemas técnicos complejos de manera eficiente.
+- **Programming Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks and Libraries:** Django, React, Node.js
+- **API Integration:** REST, SOAP, GraphQL
+- **E-commerce Platforms:** Shopify, WooCommerce, TradeMe, eBay
+- **ERP/CRM Management:** Odoo
+- **Web Development and Design:** WordPress, BigCommerce
+- **Databases:** MySQL, PostgreSQL, MongoDB, Oracle, SQL Server
+- **Business Intelligence (BI):** Specialist in data analysis and visualization for strategic decision-making.
+- **Data Integration and Governance:** Expert in integrating data systems and establishing data management policies.
+- **DBA and IT Infrastructure Management:** Managing and maintaining databases and IT systems to ensure optimal performance.
+- **Problem Solving:** Strong skills in identifying and resolving complex technical issues efficiently.
 
-### Experiencia
+### Experience
 
-- **Integración de API y Automatización:** Experiencia en la automatización de procesos comerciales mediante la integración de diversas APIs, mejorando la eficiencia operativa.
-- **Gestión de Proyectos:** Capacidad para gestionar proyectos complejos desde la fase de planificación hasta la implementación y el mantenimiento.
-- **Soluciones ERP/CRM:** Implementación y personalización de sistemas ERP y CRM, permitiendo una visión holística de las operaciones tanto en tiendas físicas como en canales de venta online.
+- **API Integration and Automation:** Experience in automating business processes through the integration of various APIs, improving operational efficiency.
+- **Project Management:** Ability to manage complex projects from planning to implementation and maintenance.
+- **ERP/CRM Solutions:** Implementing and customizing ERP and CRM systems, allowing a holistic view of operations in both physical stores and online sales channels.
 
-### Contacto
+### Contact
 
-- **Correo Electrónico:** [lisandro.edr@gmail.com](mailto:lisandro.edr@gmail.com)
+- **Email:** [lisandro.edr@gmail.com](mailto:lisandro.edr@gmail.com)
 - **LinkedIn:** [linkedin.com/in/lisandroraguero](https://www.linkedin.com/in/lisandroraguero/)
 - **GitHub:** [github.com/LisandroElMago](https://github.com/LisandroElMago)
-### Sobre mí
-
-Soy un desarrollador de software con experiencia en **desarrollo web**, **integración de API** y **gestión de ERP/CRM**. Me especializo en la creación de soluciones tecnológicas innovadoras y eficientes que optimizan los procesos de negocio y mejoran la experiencia del usuario. Mi enfoque se centra en la integración de plataformas de comercio electrónico como Shopify, WooCommerce, TradeMe y eBay, utilizando herramientas como Odoo para una gestión integral.
-
-### Habilidades
-
-- **Lenguajes de Programación:** Python, JavaScript, HTML, CSS
-- **Frameworks y Librerías:** Django, React, Node.js
-- **Integración de API:** REST, SOAP, GraphQL
-- **Plataformas de Comercio Electrónico:** Shopify, WooCommerce, TradeMe, eBay
-- **Gestión de ERP/CRM:** Odoo
-- **Desarrollo y Diseño Web:** WordPress, BigCommerce
-- **Bases de Datos:** MySQL, PostgreSQL, MongoDB, Oracle, SQL Servver
-- **Business Intelligence (BI):** Especialista en análisis y visualización de datos para la toma de decisiones estratégicas.
-- **Integración y Gobierno de Datos:** Experto en la integración de sistemas de datos y el establecimiento de políticas para la gestión de datos.
-- **DBA y Administración de Infraestructura IT:** Gestión y mantenimiento de bases de datos y sistemas IT para asegurar un rendimiento óptimo.
-- **Resolución de Problemas:** Habilidades sólidas para identificar y solucionar problemas técnicos complejos de manera eficiente.
-
-### Experiencia
-
-- **Integración de API y Automatización:** Experiencia en la automatización de procesos comerciales mediante la integración de diversas APIs, mejorando la eficiencia operativa.
-- **Gestión de Proyectos:** Capacidad para gestionar proyectos complejos desde la fase de planificación hasta la implementación y el mantenimiento.
-- **Soluciones ERP/CRM:** Implementación y personalización de sistemas ERP y CRM, permitiendo una visión holística de las operaciones tanto en tiendas físicas como en canales de venta online.
-
-### Contacto
-
-- **Correo Electrónico:** [lisandro.edr@gmail.com](mailto:lisandro.edr@gmail.com)
-- **LinkedIn:** [linkedin.com/in/lisandroraguero](https://www.linkedin.com/in/lisandroraguero/)
-- **GitHub:** [github.com/LisandroElMago](https://github.com/LisandroElMago)
-
 
 <!--
 **LisandroElMago/LisandroElMago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
